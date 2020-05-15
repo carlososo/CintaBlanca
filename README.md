@@ -36,3 +36,12 @@ me dio flojera y decidí meterlos en un file grandote a todos, bueno en un solo 
     * este esta facilito hasta eso
 
 
+3. Crea una función para imprimir un arreglo sea cual sea su tamaño
+    
+    *Bueno este ya lo hace en la página 
+
+4. Leer un arreglo de enteros y sacar su media
+
+    *Listo también
+
+
