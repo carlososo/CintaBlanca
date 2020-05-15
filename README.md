@@ -25,3 +25,10 @@ Creo que los demás ejercicios no hay bronca, pero los que dejarn en el doc los 
         Mediante ciclo FOR y condicional IF, muestra solo el pozole y la barbacoa.
         Mediante ciclo FOR y condicional IF, muestra solo los elementos impares.
         Mediante únicamente un ciclo FOR, muestra los elementos que sean pares.
+
+
+### >Al final 
+
+me dio flojera y decidí meterlos en un file grandote a todos
+
+
