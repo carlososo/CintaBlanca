@@ -29,6 +29,10 @@ Creo que los demás ejercicios no hay bronca, pero los que dejarn en el doc los 
 
 ### >Al final 
 
-me dio flojera y decidí meterlos en un file grandote a todos
+me dio flojera y decidí meterlos en un file grandote a todos, bueno en un solo html
+
+2. Escribe una función que imprima todos los números naturales en reversa, desde n hasta 1.
+
+    * este esta facilito hasta eso
 
 

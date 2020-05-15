@@ -70,3 +70,39 @@ function impares(platillos) {
 let listaCuatro = impares(platillos);
 console.log(listaCuatro);
 document.getElementById('impares').innerHTML = ("impares: " + listaCuatro.join(", "));
+
+
+
+function reversa() {
+    let valor = document.getElementById('reversa').value;
+    const arregloValor = [];
+    for (let i = valor; i >= 0; i--) {
+        arregloValor.push(i);
+
+    }
+    document.getElementById('parrafoReversa').innerHTML = arregloValor.join(", ");
+    return arregloValor;
+}
+
+
+document.getElementById('botonNaranja').onclick = function() {
+
+    document.getElementById('botonNaranja').value = "Holii";
+}
+
+
+function media(valorMedia) {
+    valorMedia = parseInt(document.getElementById('media').value);
+    let valor = 0;
+    let promedio;
+    let suma = 0;
+    for (let i = 0; i < valorMedia; i++) {
+        valor = parseInt(prompt("Escribe un valor"));
+        suma = valor + suma;
+
+    }
+    promedio = (suma / valorMedia);
+    document.getElementById('parrafoMedia').innerHTML = promedio;
+    return promedio;
+
+}
