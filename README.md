@@ -4,10 +4,10 @@ Bueno pues... Version 2 de esta cosa, supongo que está bien, como sea ten+ia un
 
 ## Lección Aprendida
 
-Cuando le das discard changes en visual Studio code, el editor también lo toma como que quieres borrarlos de tu computadora :angry: y... los borra en serio
-ayer hice un grep para ver si se había quedado en algún subsistema de linux en windows que se supone que tengo, pero pues no... :rage:
+Cuando le das discard changes en visual Studio code, el editor también lo toma como que quieres borrarlos de tu computadora :angry: y... los borra en serio.
+ayer hice un grep para ver si se había quedado algo en algún subsistema de linux en windows que se supone que tengo, pero pues no... :rage:
 
-Es decir, no ocupar vsCode para git xD al menos no, sin entender bien que demonios están haciendo! o sin leer lo que dice xD
+Es decir, no ocupar vsCode para git xD al menos no, sin entender bien que demonios están haciendo! o sin leer lo que dice :blush:
 
 ### Empecemos Pues
 
